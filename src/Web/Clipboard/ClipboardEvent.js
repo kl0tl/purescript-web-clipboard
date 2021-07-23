@@ -1,5 +1,5 @@
 "use strict";
 
-exports._clipboardData = function (e) {
+export var _clipboardData = function (e) {
   return e.clipboardData;
 };
